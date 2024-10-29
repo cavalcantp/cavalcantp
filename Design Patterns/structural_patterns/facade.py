@@ -4,6 +4,7 @@
 # So a Facade, is simply a wrapper class that can be used to abstract lower-level details that we don't want to worry about.
 
 # Python arrays are dynamic by default, but this is an example of resizing.
+# Source: NeetCode
 class Array:
     def __init__(self):
         self.capacity = 2
